@@ -6,7 +6,6 @@
 I'm a passionate student currently pursuing a B.E. in Artificial Intelligence and Machine Learning at R.V. College of Engineering, Bengaluru. I have a keen interest in AI, Machine Learning, and Data Analytics. I'm always excited to learn new technologies and build impactful projects.
 
 - 🌱 Currently learning: **AI and ML Techniques**
-- 🔭 Working on: **NutriLens, DriveProfit, Integrated Student Monitoring System**
 - 🌍 Languages: **C, C++, Python**
 - 📫 How to reach me: **bharshavardhanreddy924@gmail.com** or **+91 8328648978**
 - ⚡ Fun fact: **I enjoy solving problems through code and building innovative solutions.**
@@ -26,29 +25,11 @@ I'm a passionate student currently pursuing a B.E. in Artificial Intelligence an
 ![Unity 3D](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Orange](https://img.shields.io/badge/Orange-ED7F00?style=for-the-badge&logo=orange&logoColor=white)
 
-## Featured Projects 💻
-
-### [Integrated Student Monitoring System for Secure Online Exams](#)
-The system integrates face recognition for student authentication, focus score calculation to measure concentration, and detection of prohibited items and keystrokes to ensure exam integrity and prevent cheating.
-
-### [NutriLens: AI-Powered Dietary Insights from Food Photos](#)
-Built a web app to help users track their diet by uploading meal photos. Used MobileNetV2 to train a model on an Indian food dataset with 80 classes, each containing 50 images, to classify food and provide nutritional information.
-
-### [DriveProfit: Enhancing Analytics and Profitability of Sales for Akshaya Motors (Mercedes-Benz)](#)
-Designed a sales analytics platform featuring an interactive dashboard with detailed sales analysis. Integrated a RAG-based chatbot for real-time insights and utilized NLP for customer behavior analysis.
-
 ## Education 🎓
 
 **R.V. College of Engineering, Bengaluru**  
 B.E. in Artificial Intelligence and Machine Learning  
-Nov 2022 - Aug 2026 | CGPA: 9.18  
-Relevant coursework: Data Structures and Data Analysis, Design and Analysis of Algorithms, Artificial Intelligence and Machine Learning, Artificial Neural Networks
 
-**Narayana Junior College, Hyderabad**  
-Intermediate (12th) | Percentage: 97.7%
-
-**Kendriya Vidyalaya No-1, Uppal, Hyderabad**  
-CBSE (10th) | Percentage: 85%
 
 ## Achievements 🏆
 
