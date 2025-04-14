@@ -1,5 +1,5 @@
 
-# Hi there, I'm Boru Harshavardhan Reddy! 👋
+# Hi there, I'm Harshavardhan Reddy! 👋
 
 ## About Me 🚀
 
