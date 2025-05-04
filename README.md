@@ -28,7 +28,7 @@ I'm a passionate student currently pursuing a B.E. in Artificial Intelligence an
 ## Education 🎓
 
 **R.V. College of Engineering, Bengaluru**  
-B.E. in Artificial Intelligence and Machine Learning  
+B.E. in AIML
 
 
 ## Achievements 🏆
@@ -37,6 +37,3 @@ B.E. in Artificial Intelligence and Machine Learning
 - **Top 2% in NPTEL**: Secured a position in the top 2% of participants in the "Introduction to Operating Systems" course offered by NPTEL.
 
 ## Get in Touch 📬
-
-- [LinkedIn](https://www.linkedin.com/in/boru-harshavardhan-reddy/)
-- [GitHub](https://github.com/yourusername)
