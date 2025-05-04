@@ -35,5 +35,3 @@ B.E. in AIML
 
 - **First Place in Phoenix Hackathon, RVITM**: Won with the project "ReMIND: An Innovative Alzheimer's Patient Management System." A mobile app with reminders, cognitive exercises, AI companion, and AR/VR Unity app for nostalgic exploration.
 - **Top 2% in NPTEL**: Secured a position in the top 2% of participants in the "Introduction to Operating Systems" course offered by NPTEL.
-
-## Get in Touch 📬
