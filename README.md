@@ -7,7 +7,7 @@ I'm a passionate student currently pursuing a B.E. in Artificial Intelligence an
 
 - 🌱 Currently learning: **AI and ML Techniques**
 - 🌍 Languages: **C, C++, Python**
-- 📫 How to reach me: **bharshavardhanreddy924@gmail.com** or **+91 8328648978**
+- 📫 How to reach me: **bharshavardhanreddy924@gmail.com**
 - ⚡ Fun fact: **I enjoy solving problems through code and building innovative solutions.**
 
 ## My Skills 🧠
