@@ -5,7 +5,7 @@
 
 I'm a passionate student currently pursuing a B.E. in Artificial Intelligence and Machine Learning at R.V. College of Engineering, Bengaluru. I have a keen interest in AI, Machine Learning, and Data Analytics. I'm always excited to learn new technologies and build impactful projects.
 
-- 🌱 Currently learning: **AI and ML Techniques**
+- 🌱 Currently learning: **AI and ML Algos**
 - 🌍 Languages: **C, C++, Python**
 - 📫 How to reach me: **bharshavardhanreddy924@gmail.com**
 - ⚡ Fun fact: **I enjoy solving problems through code and building innovative solutions.**
