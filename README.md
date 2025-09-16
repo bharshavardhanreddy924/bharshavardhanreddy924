@@ -1,6 +1,6 @@
 # Hi there, I'm Harshavardhan Reddy! 👋
 
-## About Me 🚀
+## About Me
 
 I'm a passionate student currently pursuing a B.E. in Artificial Intelligence and Machine Learning at **R.V. College of Engineering, Bengaluru**. I have a keen interest in **AI, Machine Learning, Computer Vision, and Data Analytics**. I enjoy building impactful projects that merge **innovation with real-world applications**.
 
@@ -32,17 +32,11 @@ I'm a passionate student currently pursuing a B.E. in Artificial Intelligence an
 
 **R.V. College of Engineering, Bengaluru**  
 B.E. in AIML
-
 **Narayana Junior College, Hyderabad**  
-Intermediate (MPC)
-
 **Kendriya Vidyalaya No.1, Uppal, Hyderabad**  
-CBSE 10th Grade
 
 ## Achievements 🏆
 
 - 🥇 **First Place – Phoenix Hackathon, RVITM**: Built *ReMIND*, an innovative Alzheimer’s Care System with mobile reminders, cognitive exercises, AI companion, and AR/VR Unity therapy experiences.  
 - 📈 **Top 1% NPTEL**: “Design & Tech Innovation” (97%)  
 - 💻 **Top 2% NPTEL**: “Operating Systems” (94%)  
-- 👨‍🏫 Conducted **C++ Bootcamp** for 25+ juniors on OOP concepts.  
-- 🤝 **Volunteer**: Mentored 50+ underprivileged kids via Akshara Foundation.  
